@@ -2,7 +2,7 @@
 /**
  * selection_sort - Sorts array of integers in ascending order using selection sort
  * @array: Array to be sorted
- * @size: Num of ele in the arr
+ * @size: Number of element in the arr
  */
 void selection_sort(int *array, size_t size)
 {
