@@ -2,7 +2,7 @@
 /**
  * lomuto_partition - Lomuto partition scheme for quick sort
  *
- * @array: the array to be partitioned
+ * @array: The array to be partitioned
  * @low: starting index of the partition
  * @high: ending index of d parti
  * @size: Numb of elem in the array
@@ -11,7 +11,7 @@
  */
 size_t lomuto_partition(int *array, size_t low, size_t high, size_t size)
 {
-	int pivot, temp;
+	int pivot, tmp;
 	size_t i, j;
 
 	pivot = array[high];
@@ -23,9 +23,9 @@ size_t lomuto_partition(int *array, size_t low, size_t high, size_t size)
 		{
 			if (i != j)
 			{
-				temp = array[i];
+				tmp = array[i];
 				array[i] = array[j];
-				array[j] = temp;
+				array[j] = tmp;
 				print_array(array, size);
 			}
 			i++;
@@ -35,7 +35,7 @@ size_t lomuto_partition(int *array, size_t low, size_t high, size_t size)
 	{
 		temp = array[i];
 		array[i] = array[high];
-		array[high] = temp;
+		array[high] = tmp;
 		print_array(array, size);
 	}
 	return (i);
