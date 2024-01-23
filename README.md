@@ -179,3 +179,20 @@ Write in the file 106-O, the big O notations of the time complexity of the Biton
 in the best case
 in the average case
 in the worst case
+
+
+11. Quick Sort - Hoare Partition scheme
+#advanced
+Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
+
+Prototype: void quick_sort_hoare(int *array, size_t size);
+You must implement the Hoare partition scheme.
+The pivot should always be the last element of the partition being sorted.
+You’re expected to print the array after each time you swap two elements (See example below)
+Write in the file 107-O, the big O notations of the time complexity of the Quick sort algorithm, with 1 notation per line:
+
+in the best case
+in the average case
+in the worst case
+
+
