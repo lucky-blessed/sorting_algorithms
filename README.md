@@ -2,7 +2,7 @@ Sorting Algorithm & Big O
 This is a peer group project handled by Grace Obodo and Lucky Nkwor
 
 Resources
-Read or watch:
+iRead or watch:
 
 Sorting algorithm
 Big O notation
@@ -60,4 +60,15 @@ in the best case
 in the average case
 in the worst case
 
+2. Selection sort
+mandatory
+Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
+
+Prototype: void selection_sort(int *array, size_t size);
+You’re expected to print the array after each time you swap two elements (See example below)
+Write in the file 2-O, the big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line:
+
+in the best case
+in the average case
+in the worst case
 
