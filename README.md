@@ -1,4 +1,4 @@
-Sorting Algorithm & Big O:q
+Sorting Algorithm & Big O
 This is a peer group project handled by Grace Obodo and Lucky Nkwor
 
 Resources
