@@ -195,4 +195,19 @@ in the best case
 in the average case
 in the worst case
 
+12. Dealer
+#advanced
+Write a function that sorts a deck of cards.
 
+Prototype: void sort_deck(deck_node_t **deck);
+You are allowed to use the C standard library function qsort
+Please use the following data structures:
+
+You have to push you deck.h header file, containing the previous data structures definition
+Each node of the doubly linked list contains a card that you cannot modify. You have to swap the nodes.
+You can assume there is exactly 52 elements in the doubly linked list.
+You are free to use the sorting algorithm of your choice
+The deck must be ordered:
+From Ace to King
+From Spades to Diamonds
+See example below
