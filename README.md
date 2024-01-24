@@ -162,7 +162,7 @@ Prototype: void radix_sort(int *array, size_t size);
 You must implement the LSD radix sort algorithm
 You can assume that array will contain only numbers >= 0
 You are allowed to use malloc and free for this task
-You’re expected to print the array each time you increase your significant digit (See example below)
+You’re expected to print the array each time you increase your significant digit
 
 10. Bitonic sort
 #advanced
@@ -208,4 +208,4 @@ You are free to use the sorting algorithm of your choice
 The deck must be ordered:
 From Ace to King
 From Spades to Diamonds
-See example below
+
