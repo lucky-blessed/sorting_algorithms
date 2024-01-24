@@ -1,7 +1,7 @@
 Sorting Algorithm & Big O
 This is a peer group project handled by GRACE OBODO and LUCKY NKWOR
 
-Resources
+RESOURCES
 Read or watch:
 
 Sorting algorithm
@@ -35,7 +35,7 @@ Don’t forget to push your header file
 All your header files should be include guarded
 A list/array does not need to be sorted if its size is less than 2.
 
-Tasks
+TASKS
 0. Bubble sort
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
