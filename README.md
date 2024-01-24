@@ -1,8 +1,8 @@
 Sorting Algorithm & Big O
-This is a peer group project handled by Grace Obodo and Lucky Nkwor
+This is a peer group project handled by GRACE OBODO and LUCKY NKWOR
 
 Resources
-iRead or watch:
+Read or watch:
 
 Sorting algorithm
 Big O notation
@@ -164,7 +164,6 @@ You can assume that array will contain only numbers >= 0
 You are allowed to use malloc and free for this task
 You’re expected to print the array each time you increase your significant digit (See example below)
 
-
 10. Bitonic sort
 #advanced
 Write a function that sorts an array of integers in ascending order using the Bitonic sort algorithm
@@ -179,7 +178,6 @@ Write in the file 106-O, the big O notations of the time complexity of the Biton
 in the best case
 in the average case
 in the worst case
-
 
 11. Quick Sort - Hoare Partition scheme
 #advanced
